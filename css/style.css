@@ -1,0 +1,168 @@
+
+
+
+/* =======Extra css start======== */
+h3{
+    
+}
+h2, h3, h5{
+    color: #363958;
+}
+p{
+    color: #515151;
+}
+.coustom-border{
+    border-radius: 1.25rem !important;
+}
+.coustom-button{
+    width: 150px;
+    text-transform: uppercase;
+    background-color: #8FA927;
+    color: #fff;
+    
+}
+.coustom-button i{
+    margin-right: 9px;
+}
+/* =======Extra css======== */
+
+/* =======nab-items start======== */
+.header-background{
+    background-color: #FFFBF0;
+}
+.navbar-brand img{
+    width: 240px;
+    height: 30px;
+}
+.coustom-nav-link{
+    font-size: 18px; 
+    color: lightslategrey !important;
+}
+.coustom-nav-link:hover{
+    color: #000000 !important;
+}
+/* =======nab-items end======== */
+
+/* =======top-bannar start======== */
+.costom-titel{
+    margin-left: 20px;
+
+}
+.costom-titel h1{
+    font-size: 50px;
+    text-transform: uppercase;
+}
+.costom-titel span{
+    color: #FABE4C;
+}
+
+/* =======top-bannar end======== */
+
+
+
+/* =======main contant start======== */
+
+
+
+/* =======owmen jacket section end======== */
+.custom-card{
+    border: 0px;
+    background-color: #fff;
+}
+.jecket-background{
+    background-color: #F1F1F1;
+    width: 100%;
+    height: auto;
+    border-radius: 25px;
+    
+}
+.jecket-background img{
+    display: block;
+    margin: 0 auto;
+    padding: 20px;
+    height: 300px;
+
+}
+
+.custom-jacket{
+    
+    padding: 20px;
+}
+
+.coustom-price{
+
+    font-size: 30px;
+    font-weight: bold;
+    color: #FABE4C;
+    
+}
+/* =======jacket section end======== */
+
+/* =======Services section start======== */
+.offer-img img{
+    width: 100%;
+    height: auto;
+}
+.offer-img img{
+    width: 100%;
+    height: 350px;
+}
+
+  .offer-icon{
+    width: 80px;
+    height: 80px;
+  }
+  .coustom-border{
+      border-radius: 25px;
+      height: auto;
+  }
+  
+
+/* =======Services section end======== */
+
+
+
+/* =======subscribe section start======== */
+.custom-subscribe{
+    background-color: #FFFBF0;
+    height: 300px;
+}
+
+/* =======subscribe section end======== */
+
+
+
+/* =======main contant end======== */
+
+
+
+/* =======footer section start======== */
+
+#coustom-footer{
+    background-color: lightslategrey;
+}
+ .google-img{
+    width: 200px;
+    width: 180px;
+
+}
+.google-img, .apple-img:hover{
+    cursor: pointer;
+    
+}
+.apple-img{
+    width: 200px;
+    width: 180px;
+}
+.coustom-copyright small, .coustom-font h1, .coustom-font h2, .coustom-font h6 {
+    color: #ffffff;
+}
+.custom-icon i{
+    color: #fff;
+    font-size: 25px;
+}
+.custom-icon :hover i{
+    color: #f9b7b7;
+    
+}
+/* =======footer section end======== */
